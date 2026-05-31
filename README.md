@@ -88,8 +88,9 @@ Network         → Retrofit + OkHttp
 
 ## 📱 Screenshots
 
-> [**Press HERE for Arabic →**](https://tariksalih412.github.io/Football-Tracker-app/football_tracker_mockups_ar.html)
-> [**Press HERE for English →**](https://tariksalih412.github.io/Football-Tracker-app/football_tracker_mockups_en.html)
+-  [**Press HERE for Arabic →**](https://tariksalih412.github.io/Football-Tracker-app/football_tracker_mockups_ar.html)
+-  [**Press HERE for English →**](https://tariksalih412.github.io/Football-Tracker-app/football_tracker_mockups_en.html)
+
 ---
 
 ## 🏗️ Architecture
